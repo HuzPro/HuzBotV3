@@ -4,27 +4,27 @@ var JSONdb = require('simple-json-db');
 
 const bot = new Discord.Client();
 
-var Huz = "<@135224779236966400>";
+var Huz = "no :)";
 
-var Jad = "107443089349558272";
+var Jad = "no :)";
 
 var fs = require('fs');
 
 var wtf = require('wtf_wikipedia');
 
-var bot_id = "406115562561863680";
+var bot_id = "no :)";
 
-var Wall_id = "349188198645366785";
+var Wall_id = "no :)";
 
-var Huz_id = "135224779236966400";
+var Huz_id = "no :)";
 
-var Jan_id = "110220892096704512";
+var Jan_id = "no :)";
 
-var Fire_id = "196099091871170560";
+var Fire_id = "no :)";
 
-var Jad_id = "107443089349558272";
+var Jad_id = "no :)";
 
-var Ibs_id = "373901248136478736";
+var Ibs_id = "no :)";
 
 var IDs = new JSONdb('./Json/Friends.json');
 
@@ -65,11 +65,11 @@ var coin_flip = [
 
 var Friend_ids = 
 [
- // "<@374067086714208257> Amy",
-  "<@374155435017633792> Eros",
-  "<@373901248136478736> Ibs",
-  "<@135224779236966400> Huz",
-  "<@451361630375116801> Lau",
+  "<no :)> Amy",
+  "<no :)> Eros",
+  "<no :)> Ibs",
+  "<no :)> Huz",
+  "<no :)> Lau",
 ];
 
 var truth_choices = [
@@ -648,4 +648,4 @@ bot.on('message', (message) => {
 
 
 
-bot.login('NDA2MTE1NTYyNTYxODYzNjgw.DbOkKg.95XdAeLaZWai25eT9KX5tOwyXN0');
+bot.login("YOU THOUGHT I'D MISS THIS DIDNT YOU? YOU ARE A NAUGHTY NAUGHTY PERSON!");
